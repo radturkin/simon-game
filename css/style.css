@@ -1,4 +1,5 @@
 body {
+
   background-image: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/nasty_fabric.png)
 }
 
@@ -90,6 +91,10 @@ body {
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  background-image: url("../images/Eddie.png");
+  background-position: -32px -8px;
+
+
 }
 
 #topright {
@@ -108,6 +113,11 @@ body {
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  background-image: url("../images/eleven1.jpeg");
+  background-size: 450px;
+  background-position: -1000px -10px;
+
+
 }
 
 #bottomleft {
@@ -126,6 +136,10 @@ body {
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  background-image: url("../images/joyce.jpeg");
+  background-position: -62px -4px;
+  background-size: 465px;
+
 }
 
 #bottomright {
@@ -144,6 +158,10 @@ body {
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  background-image: url("../images/mike1.jpeg");
+  background-position: -22px -8px;
+  background-size: 325px;
+
 }
 
 #inner-circle {
